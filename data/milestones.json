@@ -3,15 +3,15 @@
     "title": "Project Proposal Preparation",
     "description": "Preparing the project proposal for GSoC 2026",
     "date": "2026-03-01",
-    "icon": "pen-to-square",
-    "completed": "pending",
+    "icon": "check-circle",
+    "completed": "completed",
     "_id": 1
   },
   {
     "title": "Project Proposal Accepted",
     "description": "Successfully submitted and got my GSoC project proposal accepted!",
     "date": "2026-05-08",
-    "icon": "check-circle",
+    "icon": "pen-to-square",
     "completed": "pending",
     "_id": 2
   },
